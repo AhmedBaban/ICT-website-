@@ -1,0 +1,39 @@
+body{
+  margin: 300px ;
+  background-color: white ;
+    background-image: url("https://www.ram-it.nl/wp-content/uploads/2019/05/AI-Zorg.jpg");
+  background-size: cover ;
+  background-position: center;
+  background: linear-gradient(rgba(0,0,0,0),#000), url(https://www.ram-it.nl/wp-content/uploads/2019/05/AI-Zorg.jpg) ;
+background-orgin: 300px ;
+}
+header{
+  height: 130px ;
+  width: 1015px ;
+  margin: auto ;
+  font-size: 90% ; 
+}
+
+h1 {
+  color: #fff;
+  text-align: center ;
+  font-size: 1cm ;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #f7f5f5;
+  display: block;
+}
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+aside{
+  height: 400px ;
+  width: 200px ;
+  text-align: right ;
+  background-position: right ;
+}
