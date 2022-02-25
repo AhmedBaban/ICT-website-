@@ -1,34 +1,26 @@
 body{
-  margin: 300px ;
-  background-color: white ;
-    background-image: url("https://www.ram-it.nl/wp-content/uploads/2019/05/AI-Zorg.jpg");
+
+  margin: 100px ;
   background-size: cover ;
   background-position: center;
-  background: linear-gradient(rgba(0,0,0,0),#000), url(https://www.ram-it.nl/wp-content/uploads/2019/05/AI-Zorg.jpg) ;
-background-orgin: 300px ;
-}
-header{
-  height: 130px ;
-  width: 1015px ;
-  margin: auto ;
-  font-size: 90% ; 
+  background-orgin: 300px ;
+  background-image: url("https://ak.picdn.net/shutterstock/videos/1009609082/thumb/1.jpg");
 }
 
 h1 {
-  color: #fff;
+  color: white;
   text-align: center ;
-  font-size: 1cm ;
+  font-size: 2cm ;
 }
 
-.sidenav a {
-  padding: 6px 8px 6px 16px;
-  text-decoration: none;
-  font-size: 25px;
-  color: #f7f5f5;
-  display: block;
+h2 {
+color: white ; 
+text-align: center ;
 }
-.sidenav a:hover {
-  color: #f1f1f1;
+
+h3 {
+color: white ;
+text-align: center ; 
 }
 
 aside{
@@ -37,3 +29,16 @@ aside{
   text-align: right ;
   background-position: right ;
 }
+
+.header a {
+  margin: 50px ;
+  color: white ; 
+  font-size: 150% ;
+}
+
+.content {
+  float: center;
+}
+
+
+
